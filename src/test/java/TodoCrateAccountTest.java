@@ -8,6 +8,6 @@ public class TodoCrateAccountTest extends BaseTodoTest {
 
     @Test
     public void createAccount() {
-        AutomationModulo04.as(webDriver, "asdfsdf", "testalvaro00006@mail.com", "passwordalvaro00006", "newProject", "new Todo");
+        AutomationModulo04.as(webDriver, "asdfsdf", "testalvaro00007@mail.com", "passwordalvaro00007", "newProject", "new Todo");
     }
 }
